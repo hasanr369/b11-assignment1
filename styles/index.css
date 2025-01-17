@@ -1,0 +1,149 @@
+.bg-color {
+    background-color: #F1F1F3
+}
+.fira-sans-font {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #0e0e0e;
+}
+nav {
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 160px;
+}
+.btn-nav{
+    font-size: 18px;
+    color: #006A50;
+    font-weight: 600px;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+    padding: 15px 30px;
+}
+.btn-primary {
+    background: #006A50;
+    font-size: 18px;
+    color:white;
+    font-weight: 400px;
+    border: none;
+    border-radius: 8px;
+    padding: 17px 34px;
+}
+.lmore1 {
+    background: #5490F5;
+    font-size: 16px;
+    color:white;
+    font-weight: 400px;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 11px;
+}
+.lmore2 {
+    background: #09A15C;
+    font-size: 16px;
+    color:white;
+    font-weight: 400px;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 11px;
+}
+.lmore3 {
+    background: #FFC239;
+    font-size: 16px;
+    color:white;
+    font-weight: 400px;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 11px;
+}
+.bdtwocontainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 160px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+.bdtwo{
+    margin: 117px auto;
+    max-width: 622px;
+}
+.sub-title{
+    color: rgba(14, 0, 0, 0.5);
+}
+.title{
+    font-size: 48px;
+    font-weight: 800;
+}
+main {
+    margin: 80px 160px 0;
+}
+.pillars{
+    font-size: 40px;
+    font-weight: 800;
+}
+.techs{
+    display: flex;
+    gap: 24px;
+}
+.tech{
+    background-color: #ffffff;
+    padding: 24px;
+    /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
+    border-radius: 16px;
+}
+.vision{
+    font-size: 40px;
+    font-weight: 800;
+}
+.vis{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+}
+.fut-con{
+    display: flex;
+    gap: 24px;
+}
+.future1{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    border-radius: 16px;
+}
+.future2{
+    background-color: #C6E4D6;
+    padding: 32px;
+    border-radius: 16px;
+}
+.future3{
+    background-color: #F7EBCF;
+    padding: 32px;
+    border-radius: 16px;
+}
+.fut-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.chorom{
+    margin-top: 32px;
+    background-color: white;
+    padding: 24px 48px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 24px 25px;
+    border-radius: 16px;
+}
+.kotha{
+    font-size: 16px;
+}
+.unus{
+    font-size: 20px;
+    font-weight: 600px;
+}
+.desig{
+    font-size: 16px;
+    font-weight: 400px; 
+    color: rgba(14, 14, 14, 0.6);  
+}
