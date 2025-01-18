@@ -7,7 +7,6 @@
     font-style: normal;
     font-variation-settings:
     "wdth" 100;
-    color: #0e0e0e;
 }
 nav {
     display: flex;
@@ -79,7 +78,10 @@ nav {
     font-weight: 800;
 }
 main {
-    margin: 80px 160px 0;
+    margin: 0px 160px;
+}
+section{
+    margin-top: 80px;
 }
 .pillars{
     font-size: 40px;
@@ -146,4 +148,50 @@ main {
     font-size: 16px;
     font-weight: 400px; 
     color: rgba(14, 14, 14, 0.6);  
+}
+.opinion{
+    font-size: 40px;
+    font-weight: 800px;
+}
+.container {
+    margin-top: 32px 160px 80px 160px;
+    background-color: white;
+    padding: 32px;
+    border-radius: 16px;
+}
+thead{
+    background: #C6E4D6;
+}
+table {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+.questions {
+    font-size: 20px;
+    font-weight: 600px;
+    border-right: none;
+}
+.options{
+    font-size: 16px;
+    font-weight: 600px;
+}
+td {
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    font-size: 16px;
+    font-weight: 600px;
+}
+
+select {
+    width: auto;
+    padding: 10px;
+    background-color: #C6E4D6;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.kla{
+    font-size: 16px;
+    font-weight: 600px;
 }
