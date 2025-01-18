@@ -197,3 +197,39 @@ select {
 .simg {
     border-radius: 24px;
 }
+.dn{
+    text-align: center;
+}
+.bdt{
+    display: flex;
+    gap: 24px;
+    padding: 0px 105px;
+    margin-bottom: 32px;
+}
+.bdt1{
+    padding: 40px;
+    background-color: white;
+    border-radius: 16px;
+    border: none;
+    margin-top: 32px;
+}
+.bdt2{
+    padding: 40px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    border: none;
+    margin-top: 32px;
+}
+.amnt{
+    display: flex;
+    margin: 32px 124px;
+}
+.amt{
+    font-size: 16px;
+    padding: 20px 370px;
+    border: none;
+}
+.done{
+    display: flex;
+    justify-content: center;
+}
