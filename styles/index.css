@@ -83,7 +83,7 @@ main {
 section{
     margin-top: 80px;
 }
-.pillars{
+.bs{
     font-size: 40px;
     font-weight: 800;
 }
@@ -96,10 +96,6 @@ section{
     padding: 24px;
     /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
     border-radius: 16px;
-}
-.vision{
-    font-size: 40px;
-    font-weight: 800;
 }
 .vis{
     color: rgba(14, 14, 14, 0.7);
@@ -149,10 +145,6 @@ section{
     font-weight: 400px; 
     color: rgba(14, 14, 14, 0.6);  
 }
-.opinion{
-    font-size: 40px;
-    font-weight: 800px;
-}
 .container {
     margin-top: 32px 160px 80px 160px;
     background-color: white;
@@ -183,7 +175,6 @@ td {
     font-size: 16px;
     font-weight: 600px;
 }
-
 select {
     width: auto;
     padding: 10px;
@@ -191,7 +182,18 @@ select {
     border: 1px solid black;
     border-radius: 3px;
 }
-.kla{
-    font-size: 16px;
-    font-weight: 600px;
+.news{
+    display: flex;
+    gap: 32px;
+    margin-bottom: 24px;
+    padding: 48px;
+    background-color: white;
+    border-radius: 24px;
+}
+.dt{
+    display: flex;
+    gap: 12px;
+}
+.simg {
+    border-radius: 24px;
 }
